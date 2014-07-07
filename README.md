@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 ========
 
@@ -64,3 +65,9 @@ Next Steps
 ==========
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
+=======
+chef-training
+=============
+
+chef training
+>>>>>>> 9010000dcb87ded51d72afe072e2fecbed405094
