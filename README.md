@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Overview
 ========
 
@@ -69,5 +68,3 @@ Read the README file in each of the subdirectories for more information about wh
 chef-training
 =============
 
-chef training
->>>>>>> 9010000dcb87ded51d72afe072e2fecbed405094
